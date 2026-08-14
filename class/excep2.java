@@ -5,6 +5,8 @@ public class excep2 {
     }
     public static void main(String[] args) {
         div(10,0);
+        System.out.println();
+        System.out.println();
     }
     
 }      
